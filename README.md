@@ -19,3 +19,4 @@
 * [决策与判断](https://github.com/iWoz/ReadingNotes/blob/master/%E5%86%B3%E7%AD%96%E4%B8%8E%E5%88%A4%E6%96%AD.md)
 * [链接 装载与库](https://github.com/iWoz/ReadingNotes/blob/master/%E9%93%BE%E6%8E%A5%20%E8%A3%85%E8%BD%BD%E4%B8%8E%E5%BA%93.md)
 * [非暴力沟通](https://github.com/iWoz/ReadingNotes/blob/master/%E9%9D%9E%E6%9A%B4%E5%8A%9B%E6%B2%9F%E9%80%9A.md)
+* [深度工作](https://github.com/iWoz/ReadingNotes/blob/master/%E6%B7%B1%E5%BA%A6%E5%B7%A5%E4%BD%9C.md)
