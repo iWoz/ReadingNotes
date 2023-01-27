@@ -22,3 +22,5 @@
 * [深度工作](https://github.com/iWoz/ReadingNotes/blob/master/%E6%B7%B1%E5%BA%A6%E5%B7%A5%E4%BD%9C.md)
 * [历史的教训](https://github.com/iWoz/ReadingNotes/blob/master/历史的教训.md)
 
+欢迎关注公众号：
+![image](https://user-images.githubusercontent.com/1621110/215088294-fc24b001-23d3-40e4-be2e-1f50a0d6d936.png)
